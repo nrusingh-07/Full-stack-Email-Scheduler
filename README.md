@@ -64,7 +64,7 @@ npm install
 npm run dev  
 
 Frontend runs on:
-http://localhost:5180
+http://localhost:5173
 
 ---
 
