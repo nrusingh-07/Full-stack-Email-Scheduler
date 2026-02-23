@@ -1,6 +1,6 @@
 # Full-stack Email Scheduler 
 
-This project is a production-style email scheduling system built for the ReachInbox hiring assignment.
+This project is a production-style email scheduling system built  users create, schedule, and automatically send emails using a complete frontend, backend, and database setup.
 
 ---
 
