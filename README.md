@@ -1,4 +1,4 @@
-# 🚀 ReachInbox – Full-stack Email Scheduler Assignment
+# Full-stack Email Scheduler Assignment
 
 This project is a production-style email scheduling system built for the ReachInbox hiring assignment.
 
