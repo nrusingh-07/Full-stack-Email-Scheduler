@@ -23,7 +23,7 @@ This project is a production-style email scheduling system built  users create, 
 
 ## 📂 Project Structure
 
-reachinbox-assignment/
+Fullstack email scheduler/
 ├── backend/
 ├── frontend/
 └── README.md
