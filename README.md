@@ -21,7 +21,7 @@ This project is a production-style email scheduling system built  users create, 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure:
 
 Fullstack email scheduler/
 ├── backend/
