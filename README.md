@@ -4,7 +4,7 @@ This project is a production-style email scheduling system built  users create, 
 
 ---
 
-## 🧱 Tech Stack
+## 🧱 Tech Stack:
 
 ### Backend
 - TypeScript
