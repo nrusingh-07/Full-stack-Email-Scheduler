@@ -14,7 +14,7 @@ This project is a production-style email scheduling system built  users create, 
 - PostgreSQL
 - Ethereal Email (SMTP testing)
 
-### Frontend
+### Frontend:
 - React + TypeScript
 - Tailwind CSS
 - React Router
