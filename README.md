@@ -30,7 +30,7 @@ Fullstack email scheduler/
 
 ---
 
-## ⚙️ How to Run Backend
+## ⚙️ How to Run Backend:
 
 ### 1. Start Redis & DB
 cd backend  
